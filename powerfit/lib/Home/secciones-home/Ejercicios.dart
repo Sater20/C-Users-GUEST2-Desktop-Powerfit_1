@@ -9,7 +9,7 @@ class Ejercicios extends StatelessWidget {
       height: 200,
       width: 200,
       child: Image(
-        image: AssetImage("assets/biceps.jpg")
+        image: AssetImage("assets/espalda.jpg")
         ),
       );
   }
