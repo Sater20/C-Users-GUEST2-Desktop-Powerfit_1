@@ -21,6 +21,5 @@ Una vez hecho click te dará la opción de instalación, solo asegúrate de tene
 
 Una vez instalada culminado el proceso de instalación, ya podrás disfrutar de la aplicación.
 
-![Uploading 17438671103735665119561288990487.png…]()
-
+https://photos.google.com/u/0/photo/AF1QipM-Bnm7dVvb5QKaXqiIjezQufJTnF2OPso6s19A
 
