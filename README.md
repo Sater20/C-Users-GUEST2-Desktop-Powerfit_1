@@ -21,5 +21,5 @@ Una vez hecho click te dará la opción de instalación, solo asegúrate de tene
 
 Una vez instalada culminado el proceso de instalación, ya podrás disfrutar de la aplicación.
 
-https://photos.google.com/u/0/photo/AF1QipM-Bnm7dVvb5QKaXqiIjezQufJTnF2OPso6s19A
+![1743867525345222550035664285068](https://github.com/user-attachments/assets/e3500da7-684b-4df6-a124-91deef2cebd8)
 
