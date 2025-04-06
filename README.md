@@ -21,6 +21,9 @@ Una vez hecho click te dará la opción de instalación, solo asegúrate de tene
 
 Una vez instalada culminado el proceso de instalación, ya podrás disfrutar de la aplicación.
 
+## Apk
+
+https://drive.google.com/file/d/116b8dTNpAtis_IQEqxXwSXuerAB5w5Im/view?usp=drive_link
 
 
 ![image](https://github.com/user-attachments/assets/294c089c-6845-4920-9357-ad7cc2a36d47)
